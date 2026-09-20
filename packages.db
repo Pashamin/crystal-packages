@@ -1,0 +1,4 @@
+pkg: neofetch
+version: 1.0.0
+desc: ASCII art system information tool for Crystal OS
+url: https://github.com/Pashamin/crystal-packages/releases/download/v1.0.0/neofetch-1.0.0.tar.gz
