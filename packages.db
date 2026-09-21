@@ -6,4 +6,4 @@ url: https://github.com/Pashamin/crystal-packages/releases/download/v1.0.0/neofe
 pkg: htop
 version: 3.2.2
 desc: Interactive process viewer for Crystal OS
-url: https://github.com/Pashamin/crystal-packages/releases/download/v3.2.2/htop-3.2.2.tar.gz
+url: https://github.com/Pashamin/crystal-packages/releases/download/v1.0.0/htop-3.2.2.tar.gz
